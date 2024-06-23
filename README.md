@@ -1,4 +1,4 @@
-Tic Tac Toe Game in Java
+## Tic Tac Toe Game in Java
 
 
 ## Overview
